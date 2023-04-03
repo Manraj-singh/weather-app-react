@@ -1,6 +1,6 @@
 # Weather App using Reactjs , Tailwindcss
 
-Deployed on : 
+Deployed on :  https://manraj-singh.github.io/weather-app-react/
 ## Tech Stack
 
 *Reactjs, Tailwindcss, WeatherApi*
